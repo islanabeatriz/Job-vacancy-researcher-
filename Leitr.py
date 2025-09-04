@@ -3,8 +3,8 @@ import streamlit as st
 import datetime
 import webbrowser
 
-st.set_page_config(page_title="📋 Dashboard de Vagas QA", layout="wide")
-st.title("📋 Dashboard de Vagas de Testador de QA - LinkedIn")
+st.set_page_config(page_title="📋 Dashboard de Vagas", layout="wide")
+st.title("📋 Suas vagas disponiveis - LinkedIn")
 
 # --------------------------
 # Função para carregar CSV de forma segura
